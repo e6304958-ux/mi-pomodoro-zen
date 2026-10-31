@@ -1,3 +1,4 @@
+![Uploading image.png…]()
 # Pomodoro Zen 🍅🧘
 
 A calm, browser-based Pomodoro timer built for focused study sessions.
