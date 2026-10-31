@@ -1,4 +1,5 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e0dab6eb-fcb0-4592-8d44-caded130b198" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e5514aed-4134-4bda-9272-76843e37d8cf" />
+
 
 # Pomodoro Zen 🍅🧘
 
