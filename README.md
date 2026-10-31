@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e0dab6eb-fcb0-4592-8d44-caded130b198" />
+
 # Pomodoro Zen 🍅🧘
 
 A calm, browser-based Pomodoro timer built for focused study sessions.
